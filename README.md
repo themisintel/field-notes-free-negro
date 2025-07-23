@@ -44,3 +44,8 @@ We came back with version control.”
 
 - **[2025-07 | Forgery by Deadline – D.I.P. Case Log](./dip-timeline-incident-log.md)**  
   Documenting timestamp forgery, administrative optics manipulation, and procedural denial strategy in Swiss public education oversight.
+
+
+
+### Test edit from the new branch
+This confirms branching is working in the hands-on lab.
