@@ -35,3 +35,12 @@ No reproduction without explicit written permission.
 
 > “They thought they buried us in bureaucracy.  
 We came back with version control.”
+
+
+
+---
+
+## 📁 Featured Case Logs
+
+- **[2025-07 | Forgery by Deadline – D.I.P. Case Log](./dip-timeline-incident-log.md)**  
+  Documenting timestamp forgery, administrative optics manipulation, and procedural denial strategy in Swiss public education oversight.
